@@ -1,1 +1,2 @@
 # Hue
+This is program in which you can do color corrections or just play with colors, it reads current folder for images and when you pick one u can write color values, 255, 255, 255 gives without a grayscale gives you output of default picture, but if maybe your picture is kinda blueish, try to lower number on blue channel and see your picture look better, then u can save it, it creates new folder for corrected images.
